@@ -1,0 +1,8 @@
+__pycache__/
+.vscode/
+.VSCodeCounter/
+build/
+dist/
+FileRecv/
+*.spec
+test.py
